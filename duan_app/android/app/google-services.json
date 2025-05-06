@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377425164018",
+    "project_id": "clipzy-2025",
+    "storage_bucket": "clipzy-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377425164018:android:0a370e289bae95f59b426b",
+        "android_client_info": {
+          "package_name": "com.example.duan_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXxBSilPQrPpUnfG1LGboio_Z2Nz7ZxKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
